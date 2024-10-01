@@ -26,5 +26,15 @@ This involved the exploring of the data to answer some questions about the data 
 -  Which month and Year had the highest staff employed?
 -  What department has the most employees?
 
+###  DATA ANALYSIS
+This is where I inputed some basic line of queries 
+
+” ” ” SQL
+
+ SELECT * FROM EMPLOYEE
+ 
+” ” ”
+ 
+
 
 
