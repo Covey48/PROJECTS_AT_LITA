@@ -21,5 +21,10 @@ In the Initial phase of Data cleaning and preparation, I performed the following
  3.  Data cleaning and formatting
     
 ###  	EXPLORATORY DATA ANALYSIS
+This involved the exploring of the data to answer some questions about the data such as?
+-  What payment method is most preferred?
+-  Which month and Year had the highest staff employed?
+-  What department has the most employees?
+
 
 
