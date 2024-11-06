@@ -35,11 +35,11 @@ This involved the exploring of the data to answer some questions about the data 
 ---
 This is where I inputed some basic line of queries 
 
-” ” ” SQL
+~~~ SQL
 
  SELECT * FROM EMPLOYEE
  
-” ” ”
+~~~
  
 ### DATA VISUALIZATION
 
